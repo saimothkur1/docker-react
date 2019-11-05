@@ -6,4 +6,4 @@ before_install:
 script:
         - docker run -e CI=true saimothkur1/docker-react npm run test
 
-          abcdef
+        
